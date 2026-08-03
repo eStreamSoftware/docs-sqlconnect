@@ -11,7 +11,7 @@ SQL Connect Detector is an application for verifying/troubleshooting private clo
 
 ## Download
 
-[SQL Connect Detector v2.0.8 (SQL Drive)](https://drive.sql.com.my/s/Y4TyrjFPxFMypkZ)
+[SQL Connect Detector v2.0.9 (SQL Drive)](https://drive.sql.com.my/s/cqnNZZYybynYkPA)
 
 ![sql-connect-detector-1](../../../static/img/private-cloud/sql-connect-detector-1.png)
 
